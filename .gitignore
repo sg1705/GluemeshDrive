@@ -1,6 +1,7 @@
 bin/*
 gen/*
 .settings/*
+build/*
 app/build
 .gradle/*
 *.iml
